@@ -4,6 +4,7 @@ interesting....!
 
 ## NLP
 - [Generating Sequences with RNN](https://arxiv.org/abs/1308.0850)
+  - especially the part of Handwriting synthesis
 
 ## Speech
 - 
