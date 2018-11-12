@@ -10,7 +10,8 @@ interesting....!
 
 ## GAN
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)
-- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020), [Author's Code](https://github.com/yunjey/StarGAN)
+- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)
+  - [Author's Code](https://github.com/yunjey/StarGAN)
 
 ## RL
 - [AlphaGO Zero: Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270)
