@@ -6,6 +6,8 @@ paper~ paper~~
 ## NLP
 - [Generating Sequences with RNN](https://arxiv.org/abs/1308.0850)
   - especially the part of Handwriting synthesis
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  - I want to know the role of multi-head attention more.
 
 ## Speech
 - 
