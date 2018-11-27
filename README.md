@@ -10,7 +10,9 @@ paper~ paper~~
   - I want to know the role of multi-head attention more.
 
 ## Speech
-- 
+- [Reducing over-smoothness in speech synthesis using Generative Adversarial Networks
+[2018]](https://arxiv.org/abs/1810.10989)
+  - Can we treat the spectrogram as just the image?
 
 ## GAN
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets[2016]](https://arxiv.org/abs/1606.03657)
